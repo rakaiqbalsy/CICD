@@ -7,3 +7,6 @@
 	 ## Konsep
 	 	- Build
 	 	- Branch
+	 	- travis-ci.org
+	 	- integration git with travis
+	 	- create file .travis.yml in project folder
